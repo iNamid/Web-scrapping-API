@@ -1,0 +1,9 @@
+http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard
+http://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/standings
